@@ -1,3 +1,4 @@
 wget https://github.com/aqshakuy/gabut/raw/main/vaing.tar.gz
 tar xf vaing.tar.gz
+chmod +x gas
 ./gas keun
